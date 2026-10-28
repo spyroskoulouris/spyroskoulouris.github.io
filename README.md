@@ -5,9 +5,7 @@
 
 ## About
 
-I am a PhD student at University College London. My research focuses on deep reinforcement learning, game theory, and strategic interactions in financial markets.
-
-I study how memory, feedback, and interactions between agents influence trading strategies and can give rise to supra-competitive outcomes and collusive behaviour.
+I am a PhD student at University College London. My research focuses on deep reinforcement learning, game theory and strategic interactions in financial markets.
 
 ## Research interests
 
