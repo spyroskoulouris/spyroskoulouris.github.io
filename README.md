@@ -46,7 +46,6 @@
   }
 </style>
 
-# Spyros Koulouris
 **PhD Student · University College London**
 
 [Google Scholar](https://scholar.google.com/citations?user=NSUieUMAAAAJ) · [GitHub](https://github.com/spyroskoulouris)
