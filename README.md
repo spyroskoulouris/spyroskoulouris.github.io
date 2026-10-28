@@ -1,3 +1,51 @@
+<style>
+  :root {
+    color-scheme: dark;
+  }
+
+  html,
+  body {
+    background-color: #11161d;
+    color: #d5dbe3;
+  }
+
+  .markdown-body {
+    background-color: #11161d;
+    color: #d5dbe3;
+    font-size: 17px;
+    line-height: 1.75;
+  }
+
+  .markdown-body h1,
+  .markdown-body h2,
+  .markdown-body h3 {
+    color: #f0f3f6;
+    border-bottom-color: #303843;
+  }
+
+  .markdown-body a {
+    color: #8ab4e8;
+  }
+
+  .markdown-body a:hover {
+    color: #b9d5f6;
+    text-decoration: underline;
+  }
+
+  .markdown-body hr {
+    background-color: #303843;
+  }
+
+  .markdown-body blockquote {
+    color: #aab5c3;
+    border-left-color: #455366;
+  }
+
+  .markdown-body strong {
+    color: #eef2f7;
+  }
+</style>
+
 # Spyros Koulouris
 **PhD Student · University College London**
 
